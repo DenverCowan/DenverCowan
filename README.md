@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Denver 👋
 
 <!--
 **DenverCowan/DenverCowan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-
-### Hi, I'm Denver 👋
 
 - 💻 CS student @ Duke | Prior enlisted U.S. Army 🇺🇸
 - 🔭 Building personal projects + exploring backend and system design
